@@ -1,1 +1,1 @@
-# ethglobal_starknet_2024
+# Project for EthGlobal Starnet 2024
